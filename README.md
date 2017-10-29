@@ -3,7 +3,7 @@
 **code snippet**
 # main section
 - *contain video section and conntrol*
-    <div class="vrBox"> 
+    <div class="vrBox"> </div>
 # video section
         <div class="vrStarter" id="vr524516" data-src="https://video.mp4">  
         </div> 
@@ -17,6 +17,6 @@
             <div class="togglemute"></div>
             <!-- <div class="togglefullscreen"></div> -->
         </div>
-    </div>
+    
     
 - *P.S.* **more about snippet, you can read in official documentation**
